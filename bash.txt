@@ -1,0 +1,7 @@
+
+#### 📄 `.gitignore`
+```gitignore
+__pycache__/
+*.pyc
+.env
+user_data.json
