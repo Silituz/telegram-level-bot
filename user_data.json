@@ -1,0 +1,63 @@
+{
+  "7298422998": {
+    "xp": 14,
+    "lvl": 7,
+    "last_active": "2025-06-05",
+    "easy_counter": 0,
+    "tiere": [
+      {
+        "art": "\ud83d\udc3a",
+        "name": "\u0421\u043d\u0435\u0431\u043b\u0438\u0441\u0430",
+        "on_mission": true,
+        "mission_end": "2025-06-04 15:35:12",
+        "mission_start": "2025-06-04 15:25:12"
+      },
+      {
+        "art": "\ud83d\udc0d",
+        "name": "Sili",
+        "on_mission": false,
+        "mission_end": null
+      }
+    ],
+    "rollen": [],
+    "items": [],
+    "last_message_time": "2025-06-05 09:14:48",
+    "daily_greeted_date": "2025-06-05"
+  },
+  "6409992821": {
+    "xp": 15,
+    "lvl": 2,
+    "last_active": "2025-06-05",
+    "tiere": [],
+    "rollen": [],
+    "items": [],
+    "easy_counter": 0,
+    "daily_greeted_date": "2025-06-05",
+    "last_message_time": "2025-06-05 07:29:46"
+  },
+  "6006512432": {
+    "xp": 15,
+    "lvl": 2,
+    "last_active": "2025-06-04",
+    "easy_counter": 0,
+    "tiere": [],
+    "rollen": [],
+    "items": []
+  },
+  "7231569132": {
+    "xp": 40,
+    "lvl": 5,
+    "last_active": "2025-06-05",
+    "easy_counter": 0,
+    "tiere": [],
+    "rollen": [],
+    "items": [],
+    "last_message_time": "2025-06-05 07:05:01"
+  },
+  "12345": {
+    "xp": 6,
+    "lvl": 1,
+    "last_active": "2025-06-05",
+    "tiere": []
+  }
+}
